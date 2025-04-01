@@ -4,10 +4,9 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Osvaldo Santander 
+- Vivo en la ciudad de hurligham hace 9 años 
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo un gata que se llama Mert y un perro que se llama Sctto, vivimos los 3 felices!
